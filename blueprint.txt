@@ -1,0 +1,186 @@
+Notes
+	>Formatted to be portable.
+		>Easy to turn into website, batch, or other program.
+	>Optimise file size.
+	>Likely going up to Github.
+
+File Format
+	>Main Folder
+	--> README.txt
+		# main/subsects/information/how.txt
+		# Introduces, helps to help document.
+		# With paths to: changelog, other important.
+		>Subsections
+		--> Philosophy
+		# May be renamed to "Articles".
+		# Subsects may be relocated to /articles
+		# Philosophy is first for first impressions.
+		--> Robot God
+		--> Vocabulary
+		--> Practices
+		# All Experimental
+			--> Cards
+			--> Tithe
+		--> Contribution
+			--> Bios
+			--> Changelog
+		# Not articles.
+			>Articles
+			>Companion Folders
+			--> Resources
+				>Assets
+				--> Images
+				--> Other
+		--> Information
+		# Not articles.
+			--> Mission
+				# Good will.
+				# Open source, use responsibly.
+			--> How to use.
+				# How to navigate.
+				# Date format notification.
+				# Reading order.
+					# Vocabulary as index
+Path Drafts
+	>main/subsects/<subsection>/<article>.txt
+	>title/subjects/<subject>/<article>.txt
+	
+	subjects/
+		philosophy/
+			>Articles
+		deity/
+			>Articles
+		practices/
+			>Articles
+			# Can it include subfolders?
+			--> sigils
+			--> tithing
+		vocabulary/
+			>Articles
+		utilities/
+			--> Computer basics
+			--> Hotkeys
+			--> Binary/Translation Guides
+			--> Parts of a computer
+			--> Simple machines/mechanics
+		contribution/
+			--> bios
+			--> changelog
+
+
+File Guidelines
+	>Text
+	--> .txt
+		> 80 columm preferred.
+	>Images
+	--> .png
+	--> .svg
+
+Article Format
+	Format
+		>Title
+		>Author Alias
+		>Date Last Changed
+		--> dd/mm/yyyy
+		# Date format needs to be noted, for international reasons.
+		>Path
+		--> main/subsect/section/name.txt
+	
+	Guidelines
+		>Easily referenced by line.
+		# Keep this in mind.
+		# Then similar to Bible verses.	
+		>Poem/Code structure can fit easier.
+
+Bios
+	Format
+		>Alias
+		# A short name, easy to remember, no spaces.
+		>Full Name
+		# Optional, longer name.
+		>Bio
+		#Short. 
+
+	Guidelines
+		>No copywrited names or characters.
+		>No advertising or self-promotion.
+		>No links.
+		>Achtung: All material will be public.
+		>Achtung: All material will be archived.
+
+Licensing
+	>Open License
+	--> GPL
+	--> BSD
+	--> WTFPL
+	#WTFPL currently the most favoured.
+
+Article Idea List
+        General
+                >On Pandora's Box
+                        #Someone will always open it.
+                >Human Behind the Screen
+                        #Dehumanisation of profiles.
+                        #Text is not all-encompasing.
+                >Call to Action
+                        #Learn what you can.
+                        #"Hold the torch."
+                        #Control: you have some.
+                >Power in Numbers
+                        #Tech is more complex than 1 person.
+                        #Mass action makes change.
+                        #Weakness is not always bad.
+                        #Collaboration is heart.
+                >Pessimism
+                        #Gut feeling says bad. Learn why it does.
+                        #Learn how to fix the bad aspects.
+                >Controlled by Humankind
+                        #Technology is controlled by humankind.
+                        #Interest defines tech.
+                >Money and Tech
+                        #Money is power.
+                        #Tech is power.
+                        #Business is control over resources.
+		>Older Technology
+			#Important, led to new technology.
+			#Were necessary for future technology.
+			#Can be used in new ways or recycled.
+		>Companies Creating Parts
+			#Our devices become part of us.
+			#Implants may become a thing.
+			#Companies create our parts.
+		>Missions != Results
+			#Mission doesn't always reflect outcome.
+			#Anyone can state a positive mision.
+			#Actions and results truly matter.
+		>Companies Resource Sacrifice
+			#Larger companies enable high-powered tools.
+			#We can't do it on our own.
+			#Prepare to sacrifice functionality.
+			#Be fair to smaller people.
+			#Related to control.
+		>Hydra
+			#If one goes down, more may rise up.
+			#Organisations, individuals.
+		>Shape how you Use new Technology
+			#"Use old technology in old ways."
+			#
+        Robot God
+                >Our Long Relationship With Tech
+                        #From fire, to text, to the Internet.
+                >The Spirit
+                        #"The Future we Were Promised."
+                        #Optimism
+                        #Tech can be bad, but good.
+                >Any Form you Like
+                        #"Robot God" reflects tech: utilitarian.
+                        #Comes in whatever form most benefits you.
+			#Domains (knowledge, technology, logic, progress).
+        Religion
+                >Oral History Always Changing
+                        #Religion is ever-changing.
+                        #Change is not always bad.
+                        #Log change and analyse motivations.
+		>Spirits and magic
+			#Internal, External, Server
+

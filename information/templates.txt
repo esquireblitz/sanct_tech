@@ -1,0 +1,12 @@
+>Bio
+
+Alias
+	Full Name / Names
+	Short Bio
+
+>Article Heading
+
+Title
+Author Alias
+Date Last Changed (yyyy/mm/dd)
+Original Path (sanct_tech/articles/article.txt)

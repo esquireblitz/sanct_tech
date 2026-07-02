@@ -23,6 +23,6 @@ It is created with a purpose.
     Who was it created for by whom?
 
 Technology is like art.
-    Informations is buried in its design.
+    Information is buried in its design.
         Scientific information can inform design choices.
         Feelings and aesthetics can inform design choices.

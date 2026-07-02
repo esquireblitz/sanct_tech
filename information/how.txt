@@ -1,0 +1,21 @@
+Articles
+    Articles are written in first person, or personally.
+        Presented as author's ideas and experiences.
+    Loosely stays equal or below 80 columns per line.
+        Easy to navigate via line and file path.
+            Like verses in the Bible.
+    Disclaimers:
+        Articles are not infallible.
+    
+    Multiple Authors/Noting Edits from Other Authors
+        Author name is then written like this:
+            alias/alias2/alias3
+        The original author always comes first.
+        Other contributors come after.
+        Changes are noted, even if changes are not additive.
+            >Grammar
+            >Omitting Text
+
+AI Use
+    Generative AI is not used to write this document.
+        It is very personal.
